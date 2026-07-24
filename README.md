@@ -60,27 +60,13 @@ Drive is a full-stack cloud file storage application that provides secure authen
 
 # 📸 Screenshots
 
-> Replace these with your own screenshots.
-
-## Login
-
-```
-/screenshots/login.png
-```
-
-## Dashboard
-
-```
-/screenshots/dashboard.png
-```
 
 ## Upload File
+# 📸  Preview
 
-```
-/screenshots/upload.png
-```
-
----
+<p align="center">
+  <img src="screenshots/upload.png" alt="Drive App Preview" width="900">
+</p>
 
 # 🚀 Installation
 
